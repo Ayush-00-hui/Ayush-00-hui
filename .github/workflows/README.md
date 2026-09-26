@@ -261,6 +261,20 @@ Multi-class detection and tracking across video frames, with live object/crowd c
 
 <br/>
 
+```
+┌─────────────────────────────────────────────────────────────┐
+│  $ ./farmer --harvest contributions.field                    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<img alt="github farmer harvesting contributions" src="https://raw.githubusercontent.com/Ayush-00-hui/Ayush-00-hui/main/github-farmer.gif"/>
+
+</div>
+
+<br/>
+
 <div align="center">
 
 ```
