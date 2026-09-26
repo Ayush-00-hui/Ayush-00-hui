@@ -1,251 +1,186 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Ayush%20Arya&fontSize=64&fontColor=00f5d4&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20Automation%20Agents%20%E2%80%A2%20MLOps&descAlignY=60&descSize=20&descColor=ffffff" width="100%" alt="header"/>
-
-<a href="https://github.com/Ayush-00-hui">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=760&height=50&lines=Hey+%F0%9F%91%8B+I'm+Ayush;AI%2FML+Engineer+in+the+making+%F0%9F%A7%A0;Building+LLM+agents+that+actually+ship+%F0%9F%9A%80;16+PPO+agents+vs.+city+traffic+%F0%9F%9A%A6;Prompts+%E2%86%92+Pipelines+%E2%86%92+Production+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=AYUSH%20ARYA&fontSize=58&fontColor=e8a87c&fontAlignY=45&animation=fadeIn&desc=AI%2FML%20Engineer%20%E2%80%94%20Automation%20%26%20Applied%20Intelligence&descAlignY=68&descSize=16&descColor=8a8a9e" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/OPEN_TO_WORK-AI%2FML_%7C_AI_AUTOMATION-00f5d4?style=for-the-badge&labelColor=0f0c29" alt="open to work"/>
-<img src="https://img.shields.io/badge/B.TECH-CSE_(AI_%26_ML)-ff2e97?style=for-the-badge&labelColor=0f0c29" alt="btech"/>
-<img src="https://img.shields.io/badge/CLASS_OF-2028-7c3aed?style=for-the-badge&labelColor=0f0c29" alt="class of"/>
-<img src="https://img.shields.io/badge/BASED_IN-DELHI_%F0%9F%87%AE%F0%9F%87%B3-f59e0b?style=for-the-badge&labelColor=0f0c29" alt="delhi"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3800&pause=1200&color=D4A574&center=true&vCenter=true&width=650&height=45&lines=building+agents+that+run+unattended;16+PPO+agents+vs.+one+city's+traffic;prompt+%E2%86%92+pipeline+%E2%86%92+production" alt="typing"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ayush-00-hui&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge&labelColor=0f0c29" alt="views"/>
+<img src="https://img.shields.io/badge/status-open_to_work-d4a574?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/B.Tech-CSE_(AI_%26_ML)-8a8a9e?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/based_in-Delhi-8a8a9e?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://komarev.com/ghpvc/?username=Ayush-00-hui&label=views&color=1a1a1a&style=flat-square"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
-## 👾 &nbsp;`whoami`
+```
+┌─────────────────────────────────────────────────────────────┐
+│  $ whoami                                                    │
+└─────────────────────────────────────────────────────────────┘
+```
 
-<table>
+<table width="100%">
 <tr>
-<td width="58%">
+<td width="60%" valign="top">
 
-```python
-class Ayush:
-    name       = "Ayush Arya"
-    location   = "Delhi, India 🇮🇳"
-    education  = "B.Tech CSE (AI & ML) @ PIET, '28"
-    role       = "AI/ML + Automation Developer"
+```yaml
+role:        AI/ML Engineer & Automation Developer
+education:   B.Tech CSE (AI & ML), PIET — class of 2028
+location:    Delhi, India
 
-    building   = [
-        "LLM automation agents (300+ req/day in prod)",
-        "Multi-agent RL for traffic control",
-        "RAG apps, CV pipelines, MLOps workflows",
-    ]
+currently:
+  - running a production automation agent (300+ req/day)
+  - teaching a mobile game how to think
+  - going deeper on multi-agent reinforcement learning
 
-    superpower = "Turning messy workflows into agents"
-    open_to    = "Entry-level AI/ML & AI Automation roles"
+stack:
+  languages:  [Python, Java, TypeScript]
+  ml:         [PyTorch, scikit-learn, OpenCV, NLTK]
+  systems:    [Docker, GitHub Actions, AWS, MongoDB]
 
-    def ping(self):
-        return "ayusharya.25a@gmail.com"
+contact:     ayusharya.25a@gmail.com
 ```
 
 </td>
-<td width="42%" align="center">
+<td width="40%" valign="center" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif"/>
-
-</td>
-</tr>
-</table>
-
-### ⚡ Right now
-- 🤖 &nbsp;Running a **production marketing & content automation agent** for a nutrition brand (freelance)
-- 🎮 &nbsp;Giving my game **Territory Runner** an AI/ML brain
-- 🚦 &nbsp;Going deeper on **multi-agent reinforcement learning**
-- ☁️ &nbsp;Levelling up **DevOps + MLOps** (Docker, CI/CD, cloud deployment)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ═══════════════ TECH STACK ═══════════════ -->
-## 🛠️ &nbsp;Arsenal
-
-<div align="center">
-
-**🧠 AI / ML**<br/>
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,pandas,numpy&perline=7" alt="ai ml"/>
-
-**🌐 Web / Backend**<br/>
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,flask,java,spring,mongodb&perline=8" alt="web"/>
-
-**☁️ DevOps / Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,jenkins,maven,aws,linux,git,vercel&perline=8" alt="devops"/>
-
-**🎮 Mobile / Game**<br/>
-<img src="https://skillicons.dev/icons?i=dart,flutter&perline=4" alt="game"/>
-
-<br/>
-
-`LLM APIs` &nbsp;•&nbsp; `Prompt Engineering` &nbsp;•&nbsp; `AI Agents` &nbsp;•&nbsp; `RAG` &nbsp;•&nbsp; `Vector Search` &nbsp;•&nbsp; `PPO / RL` &nbsp;•&nbsp; `NLP` &nbsp;•&nbsp; `Computer Vision` &nbsp;•&nbsp; `CI/CD`
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ═══════════════ PROJECTS ═══════════════ -->
-## 🚀 &nbsp;Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🍳 RAG-Sous-Chef
-**Culinary RAG assistant** — personalized recipe recommendations via semantic search.
-
-Full-stack app: TypeScript/Vite frontend, Flask backend, custom embedding pipeline with OpenAI, deployed on Vercel/Render with CI/CD.
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-
-[**→ View repo**](https://github.com/Ayush-00-hui/RAG-Sous-Chef)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚦 Traffic Lights RL
-**16 decentralized PPO agents** controlling urban traffic signals in the SUMO simulator.
-
-PyTorch policy/value nets + curriculum learning + experience replay → **~30% congestion reduction** and lower average wait time.
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![RL](https://img.shields.io/badge/Multi--Agent_RL-PPO-ff2e97?style=flat-square)
-
-[**→ View repo**](https://github.com/Ayush-00-hui/Traffic-Lights-RL)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 Social Media Sentiment Analysis
-**End-to-end NLP pipeline** for multi-class sentiment classification.
-
-Tokenization → lemmatization → TF-IDF, then Random Forest vs SVM vs Logistic Regression vs LSTM, with **SMOTE** for class imbalance.
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-[**→ View repo**](https://github.com/Ayush-00-hui/Social-Media-Sentiment-Analysis)
-
-</td>
-<td width="50%" valign="top">
-
-### 👁️ Object Detection & Tracking
-**Real-time YOLO + OpenCV** tracker that follows multiple object classes across video frames.
-
-Built object counting and **crowd counting** on top to estimate live counts in a scene.
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-[**→ View repo**](https://github.com/Ayush-00-hui/Object-Detection-Tracking)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🎮 Territory Runner
-**College minor project** — a territory-capture game built in Dart, currently being upgraded with AI/ML features.
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-[**→ View repo**](https://github.com/Ayush-00-hui/territory-runner-app)
+<img src="https://media.giphy.com/media/SvyLbYaLDLiXqni94i/giphy.gif" width="100%" style="filter: grayscale(40%) contrast(110%);"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
-<!-- ═══════════════ EXPERIENCE ═══════════════ -->
-## 💼 &nbsp;Experience Log
+```
+┌─────────────────────────────────────────────────────────────┐
+│  $ ls projects/ --sort=impact                                │
+└─────────────────────────────────────────────────────────────┘
+```
 
-| 📅 When | 🧑‍💻 Role | 🏢 Where | ⚡ Highlights |
-|---|---|---|---|
-| **Aug 2026 → Now** | Automation Developer (Freelance) | Max Power Nutrition | Co-built & deployed a marketing/content automation agent · **300+ requests/day** in production · owned it end-to-end: design → prompts/logic → deploy → monitoring |
-| **Jul – Aug 2026** | DevOps & MLOps Intern | PIET, Panipat | CI/CD pipelines, containerization, cloud deployment, ML model lifecycle |
-| **Mar – May 2026** | AI & Automation Engineer Intern | Swaptech Technology, Pune | AI-driven automation & engineering initiatives |
-| **Jul – Aug 2025** | Data Science & ML Intern | The Brain Hub | Data analysis, model building, applied ML workflows |
+<table width="100%">
+<tr><td width="50%" valign="top">
 
-### 🏅 Certifications
-![Oracle](https://img.shields.io/badge/Oracle_OCI-AI_Foundations_Associate_2025-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Gen_AI_Academy_2.0-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+**01 · RAG‑Sous‑Chef**
+<sub>culinary RAG assistant</sub>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+Full-stack recipe engine — TypeScript/Vite front end, Flask backend, custom OpenAI embedding pipeline for semantic search. CI/CD to Vercel + Render.
 
-<!-- ═══════════════ STATS ═══════════════ -->
-## 📊 &nbsp;Stats
+`TypeScript` `Flask` `OpenAI` `Vector Search`
 
-<div align="center">
+[→ repo](https://github.com/Ayush-00-hui/RAG-Sous-Chef)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayush-00-hui&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-00-hui&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top langs"/>
+</td><td width="50%" valign="top">
 
-<img src="https://streak-stats.demolab.com?user=Ayush-00-hui&theme=radical&hide_border=true" alt="streak"/>
+**02 · Traffic Lights RL**
+<sub>multi-agent signal control</sub>
+
+16 decentralized PPO agents optimizing intersections in SUMO. Curriculum learning + experience replay → **~30% less congestion**, lower avg. wait time.
+
+`PyTorch` `PPO` `SUMO` `Multi-Agent RL`
+
+[→ repo](https://github.com/Ayush-00-hui/Traffic-Lights-RL)
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+**03 · Sentiment Pipeline**
+<sub>multi-class NLP classification</sub>
+
+Full preprocessing (tokenize → lemmatize → TF-IDF), four classifiers benchmarked — RF, SVM, LogReg, LSTM — SMOTE for class imbalance.
+
+`scikit-learn` `NLTK` `TensorFlow`
+
+[→ repo](https://github.com/Ayush-00-hui/Social-Media-Sentiment-Analysis)
+
+</td><td width="50%" valign="top">
+
+**04 · YOLO Object Tracker**
+<sub>real-time detection & counting</sub>
+
+Multi-class detection and tracking across video frames, with live object/crowd counting layered on top.
+
+`OpenCV` `YOLO` `Computer Vision`
+
+[→ repo](https://github.com/Ayush-00-hui/Object-Detection-Tracking)
+
+</td></tr>
+<tr><td colspan="2" valign="top">
+
+**05 · Territory Runner** — <sub>college minor project, currently getting an AI/ML brain</sub> · `Dart` `Flutter` · [→ repo](https://github.com/Ayush-00-hui/territory-runner-app)
+
+</td></tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-00-hui&theme=react-dark&hide_border=true&area=true&color=00f5d4&line=ff2e97&point=ffffff&bg_color=0d1117&title_color=00f5d4" alt="activity graph" width="95%"/>
+```
+┌─────────────────────────────────────────────────────────────┐
+│  $ cat experience.log                                        │
+└─────────────────────────────────────────────────────────────┘
+```
 
-</div>
+<table width="100%">
+<tr><td width="18%"><sub><b>Aug 2026 — now</b></sub></td><td width="30%">Automation Developer <sub>freelance, Max Power Nutrition</sub></td><td>Built & run a marketing/content agent end-to-end — design, prompts, deploy, monitoring — at <b>300+ requests/day</b> in production.</td></tr>
+<tr><td><sub><b>Jul – Aug 2026</b></sub></td><td>DevOps & MLOps Intern <sub>PIET, Panipat</sub></td><td>CI/CD pipelines, containerization, cloud deployment, ML model lifecycle.</td></tr>
+<tr><td><sub><b>Mar – May 2026</b></sub></td><td>AI & Automation Intern <sub>Swaptech Technology</sub></td><td>AI-driven automation & engineering initiatives.</td></tr>
+<tr><td><sub><b>Jul – Aug 2025</b></sub></td><td>Data Science & ML Intern <sub>The Brain Hub</sub></td><td>Data analysis, model building, applied ML workflows.</td></tr>
+</table>
 
-### 🏆 Trophy Cabinet
+<sub>◆ Oracle OCI 2025 — Certified AI Foundations Associate &nbsp;&nbsp;◆ Google Cloud Gen AI Academy 2.0</sub>
+
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  $ git log --stat --author=Ayush                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ayush-00-hui&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayush-00-hui&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=d4a574&icon_color=d4a574&text_color=8a8a9e&bg_color=0d0d0d"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-00-hui&layout=compact&hide_border=true&langs_count=8&title_color=d4a574&text_color=8a8a9e&bg_color=0d0d0d"/>
+
+<img src="https://streak-stats.demolab.com?user=Ayush-00-hui&hide_border=true&background=0D0D0D&ring=D4A574&fire=D4A574&currStreakLabel=D4A574&sideLabels=8A8A9E&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=6A6A7A"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-00-hui&hide_border=true&bg_color=0D0D0D&color=8A8A9E&line=D4A574&point=E8E8E8&area=true&area_color=D4A574" width="95%"/>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
-<!-- ═══════════════ SNAKE GAME ═══════════════ -->
-## 🐍 &nbsp;Snake Eats My Contributions
+```
+┌─────────────────────────────────────────────────────────────┐
+│  $ ./snake --eat contributions.graph                         │
+└─────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush-00-hui/Ayush-00-hui/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush-00-hui/Ayush-00-hui/output/github-snake.svg" />
-  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/Ayush-00-hui/Ayush-00-hui/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush-00-hui/Ayush-00-hui/output/github-snake-dark.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/Ayush-00-hui/Ayush-00-hui/output/github-snake-dark.svg"/>
 </picture>
-
-<sub>🎮 The more I commit, the more the snake eats. Feed it.</sub>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ═══════════════ CONNECT ═══════════════ -->
-## 🤝 &nbsp;Let's Connect
+<br/>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ayush-arya-0b7b89331"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:ayusharya.25a@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Ayush-00-hui"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+```
+──────────────────────────────────────────────────────────────
+```
 
-<br/><br/>
+<a href="https://linkedin.com/in/ayush-arya-0b7b89331"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=d4a574"/></a>&nbsp;
+<a href="mailto:ayusharya.25a@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=d4a574"/></a>&nbsp;
+<a href="https://github.com/Ayush-00-hui"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=d4a574"/></a>
 
-**💬 Ask me about:** LLM agents · RAG · reinforcement learning · CI/CD for ML · breaking into AI as a student
-
-<br/>
-
-<i>"Ship it, monitor it, improve it."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%" alt="footer"/>
+<sub><i>ship it. monitor it. improve it.</i></sub>
 
 </div>
