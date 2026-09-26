@@ -32,11 +32,6 @@ currently:
   - teaching a mobile game how to think
   - going deeper on multi-agent reinforcement learning
 
-stack:
-  languages:  [Python, Java, TypeScript]
-  ml:         [PyTorch, scikit-learn, OpenCV, NLTK]
-  systems:    [Docker, GitHub Actions, AWS, MongoDB]
-
 contact:     ayusharya.25a@gmail.com
 ```
 
@@ -48,6 +43,89 @@ contact:     ayusharya.25a@gmail.com
 </td>
 </tr>
 </table>
+
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  $ cat stack.log                                              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="36"/><br/><sub>Python</sub>
+</td>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="36"/><br/><sub>Java</sub>
+</td>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="36"/><br/><sub>TypeScript</sub>
+</td>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="36"/><br/><sub>PyTorch</sub>
+</td>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="36"/><br/><sub>TensorFlow</sub>
+</td>
+</tr>
+<tr>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="36"/><br/><sub>scikit-learn</sub>
+</td>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="36"/><br/><sub>OpenCV</sub>
+</td>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="36"/><br/><sub>Pandas</sub>
+</td>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="36"/><br/><sub>NumPy</sub>
+</td>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="36"/><br/><sub>React</sub>
+</td>
+</tr>
+<tr>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="36"/><br/><sub>Node.js</sub>
+</td>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" width="36"/><br/><sub>Flask</sub>
+</td>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="36"/><br/><sub>Docker</sub>
+</td>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="36"/><br/><sub>Actions</sub>
+</td>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="36"/><br/><sub>AWS</sub>
+</td>
+</tr>
+<tr>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="36"/><br/><sub>MongoDB</sub>
+</td>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="36"/><br/><sub>Git</sub>
+</td>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="36"/><br/><sub>Linux</sub>
+</td>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=dart&theme=dark" width="36"/><br/><sub>Dart</sub>
+</td>
+<td align="center" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.4), inset 0 0 12px rgba(212,165,116,0.08);padding:16px 8px;">
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="36"/><br/><sub>Flutter</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
