@@ -167,15 +167,16 @@ Multi-class detection and tracking across video frames, with live object/crowd c
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  $ ./snake --eat contributions.graph                         │
+│  $ ./pacman --eat contributions.graph                        │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush-00-hui/Ayush-00-hui/output/github-snake-dark.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/Ayush-00-hui/Ayush-00-hui/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush-00-hui/Ayush-00-hui/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush-00-hui/Ayush-00-hui/output/pacman-contribution-graph.svg"/>
+  <img alt="pacman eating contribution graph" src="https://raw.githubusercontent.com/Ayush-00-hui/Ayush-00-hui/output/pacman-contribution-graph.svg"/>
 </picture>
 
 </div>
