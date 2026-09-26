@@ -4,7 +4,6 @@
     .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; font-size: 42px; fill: #f8fafc; }
     .subtitle { font-family: monospace; font-size: 13px; font-weight: 600; letter-spacing: 4px; fill: #94a3b8; }
     .vibe { font-family: monospace; font-size: 14px; fill: #cbd5e1; }
-    .eq { fill: #94a3b8; }
   </style>
 
   <!-- Background Canvas -->
@@ -12,7 +11,7 @@
 
   <!-- Left Header Information -->
   <text x="50" y="85" class="title">Ayush Arya</text>
-  <text x="50" y="115" class="subtitle">BUILDING RESILIENT SYSTEMS & ELEGANT CODE</text>
+  <text x="50" y="115" class="subtitle">BUILDING RESILIENT SYSTEMS &amp; ELEGANT CODE</text>
   <text x="50" y="210" class="vibe">me and who ?</text>
 
   <!-- Desk Scene & Kitty Cat -->
