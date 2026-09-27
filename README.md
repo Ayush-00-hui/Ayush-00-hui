@@ -10,7 +10,7 @@
 
 </div>
 
-<br/>
+<div align="center"><div style="height:2px;width:80%;margin:24px auto;background:linear-gradient(90deg,transparent,#f0b429,transparent);box-shadow:0 0 14px 2px rgba(240,180,41,0.55);"></div></div>
 
 <table width="100%"><tr><td style="border-bottom:2px solid #f0b429;padding-bottom:8px;">
 <span style="color:#f0b429;font-size:13px;font-weight:700;letter-spacing:4px;">🚀&nbsp; PROJECTS</span>
@@ -22,17 +22,16 @@
 <tr>
 <td width="50%" valign="top" style="background:linear-gradient(160deg,#161019,#1b140c);border:1px solid #3a2f22;border-left:4px solid #f0b429;border-radius:10px;padding:20px 22px;">
 
-<span style="font-size:17px;font-weight:700;color:#ffc966;">🍳&nbsp; RAG-Sous-Chef</span><br/>
-<sub style="color:#6a6a7a;letter-spacing:1px;">CULINARY RAG ASSISTANT</sub>
+<span style="font-size:17px;font-weight:700;color:#ffc966;">🎮&nbsp; Territory Runner</span><br/>
+<sub style="color:#6a6a7a;letter-spacing:1px;">TERRITORY-CAPTURE STRATEGY GAME</sub>
 
-<p style="color:#b8b0a3;font-size:13.5px;line-height:1.6;margin:12px 0;">Full-stack recipe engine — TypeScript/Vite front end, Flask backend, custom OpenAI embedding pipeline for semantic search. CI/CD to Vercel + Render.</p>
+<p style="color:#b8b0a3;font-size:13.5px;line-height:1.6;margin:12px 0;">College minor project — a territory-capture game where players claim grid space in real time. Currently getting an AI/ML brain for opponent behavior.</p>
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="20"/>
 
 <br/><br/>
-<a href="https://github.com/Ayush-00-hui/RAG-Sous-Chef"><img src="https://img.shields.io/badge/→_View_Repository-1a1a1a?style=flat-square&color=f0b429&labelColor=1a1a1a"/></a>
+<a href="https://github.com/Ayush-00-hui/territory-runner-app"><img src="https://img.shields.io/badge/→_View_Repository-1a1a1a?style=flat-square&color=f0b429&labelColor=1a1a1a"/></a>
 
 </td>
 <td width="50%" valign="top" style="background:linear-gradient(160deg,#161019,#1b140c);border:1px solid #3a2f22;border-left:4px solid #f0b429;border-radius:10px;padding:20px 22px;">
@@ -55,6 +54,23 @@
 <tr>
 <td width="50%" valign="top" style="background:linear-gradient(160deg,#161019,#1b140c);border:1px solid #3a2f22;border-left:4px solid #f0b429;border-radius:10px;padding:20px 22px;">
 
+<span style="font-size:17px;font-weight:700;color:#ffc966;">🏙️&nbsp; 3D-ULPIN</span><br/>
+<sub style="color:#6a6a7a;letter-spacing:1px;">AI-POWERED 3D CADASTRAL REGISTRY</sub>
+
+<p style="color:#b8b0a3;font-size:13.5px;line-height:1.6;margin:12px 0;">Turns flat 2D land records into volumetric 3D digital twins — satellite imagery + Gemini Vision AI generate multi-storey, strata-level ULPINs with subsurface utility mapping and topological validation.</p>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Gemini_Vision-4285F4?style=flat-square&logo=google&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" height="20"/>
+
+<br/><br/>
+<a href="https://github.com/Ayush-00-hui/3D-ULPIN"><img src="https://img.shields.io/badge/→_View_Repository-1a1a1a?style=flat-square&color=f0b429&labelColor=1a1a1a"/></a>
+
+</td>
+<td width="50%" valign="top" style="background:linear-gradient(160deg,#161019,#1b140c);border:1px solid #3a2f22;border-left:4px solid #f0b429;border-radius:10px;padding:20px 22px;">
+
 <span style="font-size:17px;font-weight:700;color:#ffc966;">💬&nbsp; Sentiment Pipeline</span><br/>
 <sub style="color:#6a6a7a;letter-spacing:1px;">MULTI-CLASS NLP CLASSIFICATION</sub>
 
@@ -68,39 +84,10 @@
 <a href="https://github.com/Ayush-00-hui/Social-Media-Sentiment-Analysis"><img src="https://img.shields.io/badge/→_View_Repository-1a1a1a?style=flat-square&color=f0b429&labelColor=1a1a1a"/></a>
 
 </td>
-<td width="50%" valign="top" style="background:linear-gradient(160deg,#161019,#1b140c);border:1px solid #3a2f22;border-left:4px solid #f0b429;border-radius:10px;padding:20px 22px;">
-
-<span style="font-size:17px;font-weight:700;color:#ffc966;">👁️&nbsp; YOLO Object Tracker</span><br/>
-<sub style="color:#6a6a7a;letter-spacing:1px;">REAL-TIME DETECTION &amp; COUNTING</sub>
-
-<p style="color:#b8b0a3;font-size:13.5px;line-height:1.6;margin:12px 0;">Multi-class detection and tracking across video frames, with live object/crowd counting layered on top.</p>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square" height="20"/>
-<img src="https://img.shields.io/badge/Computer_Vision-444444?style=flat-square" height="20"/>
-
-<br/><br/>
-<a href="https://github.com/Ayush-00-hui/Object-Detection-Tracking"><img src="https://img.shields.io/badge/→_View_Repository-1a1a1a?style=flat-square&color=f0b429&labelColor=1a1a1a"/></a>
-
-</td>
-</tr>
-<tr><td colspan="2" height="16"></td></tr>
-<tr>
-<td colspan="2" valign="top" style="background:linear-gradient(160deg,#161019,#1b140c);border:1px solid #3a2f22;border-left:4px solid #f0b429;border-radius:10px;padding:18px 22px;">
-
-<span style="font-size:16px;font-weight:700;color:#ffc966;">🎮&nbsp; Territory Runner</span>
-<sub style="color:#6a6a7a;">&nbsp; college minor project, currently getting an AI/ML brain</sub>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="20"/>
-&nbsp;&nbsp;
-<a href="https://github.com/Ayush-00-hui/territory-runner-app"><img src="https://img.shields.io/badge/→_View_Repository-1a1a1a?style=flat-square&color=f0b429&labelColor=1a1a1a"/></a>
-
-</td>
 </tr>
 </table>
 
-<br/>
+<div align="center"><div style="height:2px;width:80%;margin:24px auto;background:linear-gradient(90deg,transparent,#f0b429,transparent);box-shadow:0 0 14px 2px rgba(240,180,41,0.55);"></div></div>
 
 <table width="100%"><tr><td style="border-bottom:2px solid #f0b429;padding-bottom:8px;">
 <span style="color:#f0b429;font-size:13px;font-weight:700;letter-spacing:4px;">💼&nbsp; EXPERIENCE</span>
@@ -165,7 +152,7 @@
 
 </div>
 
-<br/>
+<div align="center"><div style="height:2px;width:80%;margin:24px auto;background:linear-gradient(90deg,transparent,#f0b429,transparent);box-shadow:0 0 14px 2px rgba(240,180,41,0.55);"></div></div>
 
 <table width="100%"><tr><td style="border-bottom:2px solid #f0b429;padding-bottom:8px;">
 <span style="color:#f0b429;font-size:13px;font-weight:700;letter-spacing:4px;">👻&nbsp; ARCADE</span>
