@@ -12,65 +12,89 @@
 
 <br/>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  $ ls projects/ --sort=impact                                │
-└─────────────────────────────────────────────────────────────┘
-```
+<table width="100%"><tr><td style="border-bottom:2px solid #f0b429;padding-bottom:8px;">
+<span style="color:#f0b429;font-size:13px;font-weight:700;letter-spacing:4px;">🚀&nbsp; PROJECTS</span>
+</td></tr></table>
 
-<table width="100%">
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" valign="top" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.35), inset 0 0 12px rgba(212,165,116,0.06);padding:18px 20px;">
+<td width="50%" valign="top" style="background:linear-gradient(160deg,#161019,#1b140c);border:1px solid #3a2f22;border-left:4px solid #f0b429;border-radius:10px;padding:20px 22px;">
 
-**01 · RAG‑Sous‑Chef** <sub style="color:#8a8a9e;">culinary RAG assistant</sub>
+<span style="font-size:17px;font-weight:700;color:#ffc966;">🍳&nbsp; RAG-Sous-Chef</span><br/>
+<sub style="color:#6a6a7a;letter-spacing:1px;">CULINARY RAG ASSISTANT</sub>
 
-<span style="color:#c9c2b6;">Full-stack recipe engine — TypeScript/Vite front end, Flask backend, custom OpenAI embedding pipeline for semantic search. CI/CD to Vercel + Render.</span>
+<p style="color:#b8b0a3;font-size:13.5px;line-height:1.6;margin:12px 0;">Full-stack recipe engine — TypeScript/Vite front end, Flask backend, custom OpenAI embedding pipeline for semantic search. CI/CD to Vercel + Render.</p>
 
-<sub style="color:#f0b429;">`TypeScript` `Flask` `OpenAI` `Vector Search`</sub>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="20"/>
 
-[→ repo](https://github.com/Ayush-00-hui/RAG-Sous-Chef)
+<br/><br/>
+<a href="https://github.com/Ayush-00-hui/RAG-Sous-Chef"><img src="https://img.shields.io/badge/→_View_Repository-1a1a1a?style=flat-square&color=f0b429&labelColor=1a1a1a"/></a>
 
 </td>
-<td width="50%" valign="top" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.35), inset 0 0 12px rgba(212,165,116,0.06);padding:18px 20px;">
+<td width="50%" valign="top" style="background:linear-gradient(160deg,#161019,#1b140c);border:1px solid #3a2f22;border-left:4px solid #f0b429;border-radius:10px;padding:20px 22px;">
 
-**02 · Traffic Lights RL** <sub style="color:#8a8a9e;">multi-agent signal control</sub>
+<span style="font-size:17px;font-weight:700;color:#ffc966;">🚦&nbsp; Traffic Lights RL</span><br/>
+<sub style="color:#6a6a7a;letter-spacing:1px;">MULTI-AGENT SIGNAL CONTROL</sub>
 
-<span style="color:#c9c2b6;">16 decentralized PPO agents optimizing intersections in SUMO. Curriculum learning + experience replay → <b style="color:#f0b429;">~30% less congestion</b>, lower avg. wait time.</span>
+<p style="color:#b8b0a3;font-size:13.5px;line-height:1.6;margin:12px 0;">16 decentralized PPO agents optimizing intersections in SUMO. Curriculum learning + experience replay → <b style="color:#f0b429;">~30% less congestion</b>, lower avg. wait time.</p>
 
-<sub style="color:#f0b429;">`PyTorch` `PPO` `SUMO` `Multi-Agent RL`</sub>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/PPO-8a2be2?style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/SUMO-2f8f4e?style=flat-square" height="20"/>
 
-[→ repo](https://github.com/Ayush-00-hui/Traffic-Lights-RL)
+<br/><br/>
+<a href="https://github.com/Ayush-00-hui/Traffic-Lights-RL"><img src="https://img.shields.io/badge/→_View_Repository-1a1a1a?style=flat-square&color=f0b429&labelColor=1a1a1a"/></a>
 
 </td>
 </tr>
+<tr><td colspan="2" height="16"></td></tr>
 <tr>
-<td width="50%" valign="top" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.35), inset 0 0 12px rgba(212,165,116,0.06);padding:18px 20px;">
+<td width="50%" valign="top" style="background:linear-gradient(160deg,#161019,#1b140c);border:1px solid #3a2f22;border-left:4px solid #f0b429;border-radius:10px;padding:20px 22px;">
 
-**03 · Sentiment Pipeline** <sub style="color:#8a8a9e;">multi-class NLP classification</sub>
+<span style="font-size:17px;font-weight:700;color:#ffc966;">💬&nbsp; Sentiment Pipeline</span><br/>
+<sub style="color:#6a6a7a;letter-spacing:1px;">MULTI-CLASS NLP CLASSIFICATION</sub>
 
-<span style="color:#c9c2b6;">Full preprocessing (tokenize → lemmatize → TF-IDF), four classifiers benchmarked — RF, SVM, LogReg, LSTM — SMOTE for class imbalance.</span>
+<p style="color:#b8b0a3;font-size:13.5px;line-height:1.6;margin:12px 0;">Full preprocessing (tokenize → lemmatize → TF-IDF), four classifiers benchmarked — RF, SVM, LogReg, LSTM — SMOTE for class imbalance.</p>
 
-<sub style="color:#f0b429;">`scikit-learn` `NLTK` `TensorFlow`</sub>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/NLTK-2f6b4f?style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="20"/>
 
-[→ repo](https://github.com/Ayush-00-hui/Social-Media-Sentiment-Analysis)
+<br/><br/>
+<a href="https://github.com/Ayush-00-hui/Social-Media-Sentiment-Analysis"><img src="https://img.shields.io/badge/→_View_Repository-1a1a1a?style=flat-square&color=f0b429&labelColor=1a1a1a"/></a>
 
 </td>
-<td width="50%" valign="top" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.35), inset 0 0 12px rgba(212,165,116,0.06);padding:18px 20px;">
+<td width="50%" valign="top" style="background:linear-gradient(160deg,#161019,#1b140c);border:1px solid #3a2f22;border-left:4px solid #f0b429;border-radius:10px;padding:20px 22px;">
 
-**04 · YOLO Object Tracker** <sub style="color:#8a8a9e;">real-time detection & counting</sub>
+<span style="font-size:17px;font-weight:700;color:#ffc966;">👁️&nbsp; YOLO Object Tracker</span><br/>
+<sub style="color:#6a6a7a;letter-spacing:1px;">REAL-TIME DETECTION &amp; COUNTING</sub>
 
-<span style="color:#c9c2b6;">Multi-class detection and tracking across video frames, with live object/crowd counting layered on top.</span>
+<p style="color:#b8b0a3;font-size:13.5px;line-height:1.6;margin:12px 0;">Multi-class detection and tracking across video frames, with live object/crowd counting layered on top.</p>
 
-<sub style="color:#f0b429;">`OpenCV` `YOLO` `Computer Vision`</sub>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/Computer_Vision-444444?style=flat-square" height="20"/>
 
-[→ repo](https://github.com/Ayush-00-hui/Object-Detection-Tracking)
+<br/><br/>
+<a href="https://github.com/Ayush-00-hui/Object-Detection-Tracking"><img src="https://img.shields.io/badge/→_View_Repository-1a1a1a?style=flat-square&color=f0b429&labelColor=1a1a1a"/></a>
 
 </td>
 </tr>
+<tr><td colspan="2" height="16"></td></tr>
 <tr>
-<td colspan="2" valign="top" style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 20px 2px rgba(212,165,116,0.35), inset 0 0 12px rgba(212,165,116,0.06);padding:18px 20px;">
+<td colspan="2" valign="top" style="background:linear-gradient(160deg,#161019,#1b140c);border:1px solid #3a2f22;border-left:4px solid #f0b429;border-radius:10px;padding:18px 22px;">
 
-**05 · Territory Runner** <sub style="color:#8a8a9e;">college minor project, currently getting an AI/ML brain</sub> — <sub style="color:#f0b429;">`Dart` `Flutter`</sub> — [→ repo](https://github.com/Ayush-00-hui/territory-runner-app)
+<span style="font-size:16px;font-weight:700;color:#ffc966;">🎮&nbsp; Territory Runner</span>
+<sub style="color:#6a6a7a;">&nbsp; college minor project, currently getting an AI/ML brain</sub>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="20"/>
+&nbsp;&nbsp;
+<a href="https://github.com/Ayush-00-hui/territory-runner-app"><img src="https://img.shields.io/badge/→_View_Repository-1a1a1a?style=flat-square&color=f0b429&labelColor=1a1a1a"/></a>
 
 </td>
 </tr>
@@ -78,29 +102,29 @@
 
 <br/>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  $ cat experience.log                                        │
-└─────────────────────────────────────────────────────────────┘
-```
+<table width="100%"><tr><td style="border-bottom:2px solid #f0b429;padding-bottom:8px;">
+<span style="color:#f0b429;font-size:13px;font-weight:700;letter-spacing:4px;">💼&nbsp; EXPERIENCE</span>
+</td></tr></table>
+
+<br/>
 
 <table width="100%">
-<tr><td style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 18px 2px rgba(212,165,116,0.3), inset 0 0 10px rgba(212,165,116,0.05);padding:16px 20px;">
+<tr><td style="background:#12121a;border:1px solid #3a2f22;border-left:4px solid #f0b429;border-radius:10px;padding:16px 20px;">
 <b style="color:#f0b429;">Aug 2026 — now</b> &nbsp;·&nbsp; Automation Developer <sub style="color:#8a8a9e;">freelance, Max Power Nutrition</sub><br/>
 <span style="color:#c9c2b6;">Built &amp; run a marketing/content agent end-to-end — design, prompts, deploy, monitoring — at <b style="color:#f0b429;">300+ requests/day</b> in production.</span>
 </td></tr>
-<tr><td style="height:10px;border:none;"></td></tr>
-<tr><td style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 18px 2px rgba(212,165,116,0.3), inset 0 0 10px rgba(212,165,116,0.05);padding:16px 20px;">
+<tr><td height="10"></td></tr>
+<tr><td style="background:#12121a;border:1px solid #3a2f22;border-left:4px solid #f0b429;border-radius:10px;padding:16px 20px;">
 <b style="color:#f0b429;">Jul – Aug 2026</b> &nbsp;·&nbsp; DevOps &amp; MLOps Intern <sub style="color:#8a8a9e;">PIET, Panipat</sub><br/>
 <span style="color:#c9c2b6;">CI/CD pipelines, containerization, cloud deployment, ML model lifecycle.</span>
 </td></tr>
-<tr><td style="height:10px;border:none;"></td></tr>
-<tr><td style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 18px 2px rgba(212,165,116,0.3), inset 0 0 10px rgba(212,165,116,0.05);padding:16px 20px;">
+<tr><td height="10"></td></tr>
+<tr><td style="background:#12121a;border:1px solid #3a2f22;border-left:4px solid #f0b429;border-radius:10px;padding:16px 20px;">
 <b style="color:#f0b429;">Mar – May 2026</b> &nbsp;·&nbsp; AI &amp; Automation Intern <sub style="color:#8a8a9e;">Swaptech Technology</sub><br/>
 <span style="color:#c9c2b6;">AI-driven automation &amp; engineering initiatives.</span>
 </td></tr>
-<tr><td style="height:10px;border:none;"></td></tr>
-<tr><td style="background:#12121a;border:1px solid #3a2f22;border-radius:14px;box-shadow:0 0 18px 2px rgba(212,165,116,0.3), inset 0 0 10px rgba(212,165,116,0.05);padding:16px 20px;">
+<tr><td height="10"></td></tr>
+<tr><td style="background:#12121a;border:1px solid #3a2f22;border-left:4px solid #f0b429;border-radius:10px;padding:16px 20px;">
 <b style="color:#f0b429;">Jul – Aug 2025</b> &nbsp;·&nbsp; Data Science &amp; ML Intern <sub style="color:#8a8a9e;">The Brain Hub</sub><br/>
 <span style="color:#c9c2b6;">Data analysis, model building, applied ML workflows.</span>
 </td></tr>
@@ -110,11 +134,11 @@
 
 <br/><br/>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  $ ./garden --grow                                            │
-└─────────────────────────────────────────────────────────────┘
-```
+<table width="100%"><tr><td style="border-bottom:2px solid #f0b429;padding-bottom:8px;">
+<span style="color:#f0b429;font-size:13px;font-weight:700;letter-spacing:4px;">🌸&nbsp; OFF THE CLOCK</span>
+</td></tr></table>
+
+<br/>
 
 <div align="center">
 
@@ -124,11 +148,11 @@
 
 <br/>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  $ git log --stat --author=Ayush                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<table width="100%"><tr><td style="border-bottom:2px solid #f0b429;padding-bottom:8px;">
+<span style="color:#f0b429;font-size:13px;font-weight:700;letter-spacing:4px;">📊&nbsp; STATS</span>
+</td></tr></table>
+
+<br/>
 
 <div align="center">
 
@@ -143,11 +167,11 @@
 
 <br/>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  $ ./pacman --eat contributions.graph                        │
-└─────────────────────────────────────────────────────────────┘
-```
+<table width="100%"><tr><td style="border-bottom:2px solid #f0b429;padding-bottom:8px;">
+<span style="color:#f0b429;font-size:13px;font-weight:700;letter-spacing:4px;">👻&nbsp; ARCADE</span>
+</td></tr></table>
+
+<br/>
 
 <div align="center">
 
@@ -163,15 +187,12 @@
 
 <div align="center">
 
-```
-──────────────────────────────────────────────────────────────
-```
-
 <a href="https://linkedin.com/in/ayush-arya-0b7b89331"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=d4a574"/></a>&nbsp;
 <a href="mailto:ayusharya.25a@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1a1a?style=flat-square&logo=gmail&logoColor=d4a574"/></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Discord-1a1a1a?style=flat-square&logo=discord&logoColor=d4a574"/></a>&nbsp;
 <a href="https://github.com/Ayush-00-hui"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=d4a574"/></a>
 
+<br/><br/>
 <sub><i>ship it. monitor it. improve it.</i></sub>
 
 </div>
