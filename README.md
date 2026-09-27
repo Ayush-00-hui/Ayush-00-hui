@@ -4,13 +4,13 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/status-open_to_work-d4a574?style=flat-square&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/B.Tech-CSE_(AI_%26_ML)-8a8a9e?style=flat-square&labelColor=1a1a1a"/>
-<img src="https://komarev.com/ghpvc/?username=Ayush-00-hui&label=views&color=1a1a1a&style=flat-square"/>
+<a href="https://discord.com/users/743835311792062495"><img src="https://img.shields.io/badge/Discord-1a1a1a?style=flat-square&logo=discord&logoColor=d4a574"/></a>&nbsp;
+<a href="mailto:ayusharya.25a@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1a1a?style=flat-square&logo=gmail&logoColor=d4a574"/></a>&nbsp;
+<a href="https://linkedin.com/in/ayush-arya-0b7b89331"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=d4a574"/></a>
 
 </div>
 
-<div align="center"><div style="height:2px;width:80%;margin:24px auto;background:linear-gradient(90deg,transparent,#f0b429,transparent);box-shadow:0 0 14px 2px rgba(240,180,41,0.55);"></div></div>
+<img src="https://raw.githubusercontent.com/Ayush-00-hui/Ayush-00-hui/main/assets/divider.svg" width="100%"/>
 
 <table width="100%"><tr><td style="border-bottom:2px solid #f0b429;padding-bottom:8px;">
 <span style="color:#f0b429;font-size:13px;font-weight:700;letter-spacing:4px;">🚀&nbsp; PROJECTS</span>
@@ -87,7 +87,7 @@
 </tr>
 </table>
 
-<div align="center"><div style="height:2px;width:80%;margin:24px auto;background:linear-gradient(90deg,transparent,#f0b429,transparent);box-shadow:0 0 14px 2px rgba(240,180,41,0.55);"></div></div>
+<img src="https://raw.githubusercontent.com/Ayush-00-hui/Ayush-00-hui/main/assets/divider.svg" width="100%"/>
 
 <table width="100%"><tr><td style="border-bottom:2px solid #f0b429;padding-bottom:8px;">
 <span style="color:#f0b429;font-size:13px;font-weight:700;letter-spacing:4px;">💼&nbsp; EXPERIENCE</span>
@@ -119,7 +119,7 @@
 
 <sub style="color:#8a7455;">◆ Oracle OCI 2025 — Certified AI Foundations Associate &nbsp;&nbsp;◆ Google Cloud Gen AI Academy 2.0</sub>
 
-<div align="center"><div style="height:2px;width:80%;margin:24px auto;background:linear-gradient(90deg,transparent,#f0b429,transparent);box-shadow:0 0 14px 2px rgba(240,180,41,0.55);"></div></div>
+<img src="https://raw.githubusercontent.com/Ayush-00-hui/Ayush-00-hui/main/assets/divider.svg" width="100%"/>
 
 <table width="100%"><tr><td style="border-bottom:2px solid #f0b429;padding-bottom:8px;">
 <span style="color:#f0b429;font-size:13px;font-weight:700;letter-spacing:4px;">📊&nbsp; STATS</span>
@@ -138,7 +138,7 @@
 
 </div>
 
-<div align="center"><div style="height:2px;width:80%;margin:24px auto;background:linear-gradient(90deg,transparent,#f0b429,transparent);box-shadow:0 0 14px 2px rgba(240,180,41,0.55);"></div></div>
+<img src="https://raw.githubusercontent.com/Ayush-00-hui/Ayush-00-hui/main/assets/divider.svg" width="100%"/>
 
 <table width="100%"><tr><td style="border-bottom:2px solid #f0b429;padding-bottom:8px;">
 <span style="color:#f0b429;font-size:13px;font-weight:700;letter-spacing:4px;">👻&nbsp; ARCADE</span>
@@ -160,12 +160,10 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ayush-arya-0b7b89331"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=d4a574"/></a>&nbsp;
-<a href="mailto:ayusharya.25a@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1a1a?style=flat-square&logo=gmail&logoColor=d4a574"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Discord-1a1a1a?style=flat-square&logo=discord&logoColor=d4a574"/></a>&nbsp;
-<a href="https://github.com/Ayush-00-hui"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=d4a574"/></a>
+<img src="https://raw.githubusercontent.com/Ayush-00-hui/Ayush-00-hui/main/assets/divider.svg" width="60%"/>
 
-<br/><br/>
+<br/>
+
 <sub><i>ship it. monitor it. improve it.</i></sub>
 
 </div>
