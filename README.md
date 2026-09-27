@@ -119,21 +119,7 @@
 
 <sub style="color:#8a7455;">◆ Oracle OCI 2025 — Certified AI Foundations Associate &nbsp;&nbsp;◆ Google Cloud Gen AI Academy 2.0</sub>
 
-<br/><br/>
-
-<table width="100%"><tr><td style="border-bottom:2px solid #f0b429;padding-bottom:8px;">
-<span style="color:#f0b429;font-size:13px;font-weight:700;letter-spacing:4px;">🌸&nbsp; OFF THE CLOCK</span>
-</td></tr></table>
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ayush-00-hui/Ayush-00-hui/main/assets/garden.svg" width="100%"/>
-
-</div>
-
-<br/>
+<div align="center"><div style="height:2px;width:80%;margin:24px auto;background:linear-gradient(90deg,transparent,#f0b429,transparent);box-shadow:0 0 14px 2px rgba(240,180,41,0.55);"></div></div>
 
 <table width="100%"><tr><td style="border-bottom:2px solid #f0b429;padding-bottom:8px;">
 <span style="color:#f0b429;font-size:13px;font-weight:700;letter-spacing:4px;">📊&nbsp; STATS</span>
