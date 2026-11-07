@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="20"/>
 
 <br/><br/>
-<a href="https://github.com/Ayush-00-hui/territory-runner-app"><img src="https://img.shields.io/badge/→_View_Repository-1a1a1a?style=flat-square&color=f0b429&labelColor=1a1a1a"/></a>
+<a href="https://github.com/Ayush-00-hui/Territory-Runner-Game"><img src="https://img.shields.io/badge/→_View_Repository-1a1a1a?style=flat-square&color=f0b429&labelColor=1a1a1a"/></a>
 
 </td>
 <td width="50%" valign="top" style="background:linear-gradient(160deg,#161019,#1b140c);border:1px solid #3a2f22;border-left:4px solid #f0b429;border-radius:10px;padding:20px 22px;">
