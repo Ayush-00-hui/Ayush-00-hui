@@ -132,7 +132,16 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayush-00-hui&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=d4a574&icon_color=d4a574&text_color=8a8a9e&bg_color=0d0d0d"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-00-hui&layout=compact&hide_border=true&langs_count=8&title_color=d4a574&text_color=8a8a9e&bg_color=0d0d0d"/>
 
-<img src="https://streak-stats.demolab.com?user=Ayush-00-hui&hide_border=true&background=0D0D0D&ring=D4A574&fire=D4A574&currStreakLabel=D4A574&sideLabels=8A8A9E&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=6A6A7A"/>
+<a href="https://github.com/Ayush-00-hui">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Ayush-00-hui&hide_border=true&background=0D0D0D&ring=D4A574&fire=D4A574&currStreakLabel=D4A574&sideLabels=8A8A9E&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=6A6A7A&v=2"/>
+</a>
+
+<br/>
+
+<img alt="Current streak" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DAyush-00-hui%26type%3Djson&query=%24.currentStreak.length&label=current%20streak&suffix=%20days&style=flat-square&color=d4a574&labelColor=1a1a1a"/>&nbsp;
+<img alt="Longest streak" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DAyush-00-hui%26type%3Djson&query=%24.longestStreak.length&label=longest%20streak&suffix=%20days&style=flat-square&color=f0b429&labelColor=1a1a1a"/>
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-00-hui&hide_border=true&bg_color=0D0D0D&color=8A8A9E&line=D4A574&point=E8E8E8&area=true&area_color=D4A574" width="95%"/>
 
